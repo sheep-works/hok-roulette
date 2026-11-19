@@ -7,7 +7,7 @@
           <div class="navbar-item is-flex is-align-items-center" style="gap: 0.5rem;">
             <span class="is-size-4">👑</span>
             <span class="has-text-weight-bold is-size-5">HoK Random Roulette</span>
-            <span class="tag is-primary is-rounded is-light ml-1">v1.0</span>
+            <span class="tag is-primary is-rounded is-light ml-1">v{{ appVersion }}</span>
           </div>
         </div>
 
@@ -57,7 +57,7 @@
     </nav>
 
     <!-- Main Container -->
-    <div class="container px-3 pb-6" style="max-width: 900px;">
+    <div class="container px-3 pb-6" style="max-width: 960px;">
       <!-- Toast Notification -->
       <div v-if="toastMessage" class="notification is-success is-light toast-notification shadow">
         <span class="icon mr-1"><i class="fa-solid fa-check"></i></span>
@@ -134,7 +134,7 @@
         <div class="level mb-4 is-mobile is-flex-wrap-wrap" style="gap: 0.5rem;">
           <div class="level-left">
             <div class="level-item buttons are-small mb-0">
-              <!-- Add Player -->
+              <!-- Add Player (Header) -->
               <button
                 class="button is-primary"
                 :disabled="store.slots.length >= 5"
@@ -182,12 +182,30 @@
 
         <!-- Slot List -->
         <div class="slots-container">
-          <PlayerRouletteSlot
-            v-for="(slot, index) in store.slots"
-            :key="slot.id"
-            :slot="slot"
-            :slotIndex="index"
-          />
+          <template v-for="(slot, index) in store.slots" :key="slot.id">
+            <PlayerRouletteSlot
+              :slot="slot"
+              :slotIndex="index"
+            />
+            <!-- Divider & Margin between cards -->
+            <hr v-if="index < store.slots.length - 1" class="my-5 slot-divider" />
+          </template>
+        </div>
+
+        <!-- Add Player Button at Bottom of Slot List -->
+        <div class="mt-4 mb-4" v-if="store.slots.length < 5">
+          <button
+            class="button is-primary is-outlined is-fullwidth py-4 has-text-weight-bold"
+            @click="store.addSlot()"
+            style="border-style: dashed; border-width: 2px;"
+          >
+            <span class="icon"><i class="fa-solid fa-user-plus"></i></span>
+            <span>+ Add Player {{ store.slots.length + 1 }} ({{ store.slots.length }}/5)</span>
+          </button>
+        </div>
+        <div v-else class="notification is-light py-2 px-3 has-text-centered is-size-7 has-text-grey mt-3 mb-4">
+          <i class="fa-solid fa-users mr-1"></i>
+          Party is full with 5 players.
         </div>
 
         <!-- Quick Tips Footer -->
@@ -206,6 +224,8 @@
 import { ref, computed, onMounted } from 'vue';
 import { store, LANES } from './stores/rouletteStore.js';
 import PlayerRouletteSlot from './components/PlayerRouletteSlot.vue';
+
+const appVersion = __APP_VERSION__;
 
 const isPartyShareView = ref(false);
 const toastMessage = ref('');
@@ -337,5 +357,12 @@ onMounted(() => {
 }
 .party-share-view .box:hover {
   transform: translateY(-2px);
+}
+
+.slot-divider {
+  background-color: var(--bulma-border-weak, rgba(0, 0, 0, 0.12));
+  height: 1px;
+  border: none;
+  opacity: 0.6;
 }
 </style>
