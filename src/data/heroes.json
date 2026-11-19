@@ -1,0 +1,1368 @@
+[
+  {
+    "no": 1,
+    "id": "arthur",
+    "nameJa": "アーサー",
+    "nameEn": "Arthur",
+    "role": "突撃型ファイター",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B",
+      "jungle": "B"
+    }
+  },
+  {
+    "no": 2,
+    "id": "agudo",
+    "nameJa": "アグド",
+    "nameEn": "Agudo",
+    "role": "タンクマークスマン",
+    "defaultTier": "C",
+    "lanes": {
+      "farm": "C",
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 3,
+    "id": "ata",
+    "nameJa": "アタ",
+    "nameEn": "Ata",
+    "role": "先鋒型タンク",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 4,
+    "id": "athena",
+    "nameJa": "アテナ",
+    "nameEn": "Athena",
+    "role": "アサシン型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 5,
+    "id": "annette",
+    "nameJa": "アネット",
+    "nameEn": "Annette",
+    "role": "AOV",
+    "defaultTier": "C",
+    "lanes": {
+      "mid": "C"
+    }
+  },
+  {
+    "no": 6,
+    "id": "alessio",
+    "nameJa": "アレッシオ",
+    "nameEn": "Alessio",
+    "role": "俊敏型マークスマン",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B",
+      "farm": "B"
+    }
+  },
+  {
+    "no": 7,
+    "id": "allain",
+    "nameJa": "アレン",
+    "nameEn": "Allain",
+    "role": "狂戦士型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C"
+    }
+  },
+  {
+    "no": 8,
+    "id": "angela",
+    "nameJa": "アンジェラ",
+    "nameEn": "Angela",
+    "role": "砲台型メイジ",
+    "defaultTier": "S",
+    "lanes": {
+      "mid": "S"
+    }
+  },
+  {
+    "no": 9,
+    "id": "aegis",
+    "nameJa": "イージス",
+    "nameEn": "Aegis",
+    "role": "攻撃系サポート",
+    "defaultTier": "S",
+    "lanes": {
+      "roam": "S"
+    }
+  },
+  {
+    "no": 10,
+    "id": "erin",
+    "nameJa": "エリン",
+    "nameEn": "Erin",
+    "role": "俊敏型マークスマン",
+    "defaultTier": "A",
+    "lanes": {
+      "farm": "A"
+    }
+  },
+  {
+    "no": 11,
+    "id": "kaizer",
+    "nameJa": "カイザー",
+    "nameEn": "Kaizer",
+    "role": "アサシン型ファイター",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B",
+      "jungle": "B"
+    }
+  },
+  {
+    "no": 12,
+    "id": "garuda",
+    "nameJa": "カルラ",
+    "nameEn": "Garuda",
+    "role": "砲台型メイジ",
+    "defaultTier": "B",
+    "lanes": {
+      "mid": "B"
+    }
+  },
+  {
+    "no": 13,
+    "id": "charlotte",
+    "nameJa": "シャルロット",
+    "nameEn": "Charlotte",
+    "role": "突撃型ファイター",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B",
+      "jungle": "B"
+    }
+  },
+  {
+    "no": 14,
+    "id": "pei",
+    "nameJa": "タイガー",
+    "nameEn": "Pei",
+    "role": "ローム型アサシン",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 15,
+    "id": "qixia",
+    "nameJa": "チーシャ",
+    "nameEn": "Qixia",
+    "role": "突撃型ファイター",
+    "defaultTier": "A",
+    "lanes": {
+      "clash": "A",
+      "farm": "A",
+      "jungle": "A"
+    }
+  },
+  {
+    "no": 16,
+    "id": "devara",
+    "nameJa": "デーヴァラ",
+    "nameEn": "Devara",
+    "role": "狂戦士型ファイター",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B",
+      "mid": "B",
+      "farm": "B"
+    }
+  },
+  {
+    "no": 17,
+    "id": "dolia",
+    "nameJa": "ドリア",
+    "nameEn": "Dolia",
+    "role": "バフ系サポート",
+    "defaultTier": "S",
+    "lanes": {
+      "roam": "S"
+    }
+  },
+  {
+    "no": 18,
+    "id": "nakoruru",
+    "nameJa": "ナコルル",
+    "nameEn": "Nakoruru",
+    "role": "高ダメージ型アサシン",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 19,
+    "id": "nezha",
+    "nameJa": "ナタク",
+    "nameEn": "Nezha",
+    "role": "突撃型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 20,
+    "id": "heino",
+    "nameJa": "ハイノ",
+    "nameEn": "Heino",
+    "role": "範囲攻撃型メイジ",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B",
+      "mid": "B"
+    }
+  },
+  {
+    "no": 21,
+    "id": "biron",
+    "nameJa": "バイロン",
+    "nameEn": "Biron",
+    "role": "重装型ファイター",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B"
+    }
+  },
+  {
+    "no": 22,
+    "id": "butterfly",
+    "nameJa": "バタフライ",
+    "nameEn": "Butterfly",
+    "role": "アサシン型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 23,
+    "id": "harold",
+    "nameJa": "ハロルド",
+    "nameEn": "Harold",
+    "role": "ローム型アサシン",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 24,
+    "id": "fatih",
+    "nameJa": "ファーティフ",
+    "nameEn": "Fatih",
+    "role": "狂戦士型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 25,
+    "id": "florentino",
+    "nameJa": "フロレンティーノ",
+    "nameEn": "Florentino",
+    "role": "AOV",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B"
+    }
+  },
+  {
+    "no": 26,
+    "id": "marco-polo",
+    "nameJa": "マルコ・ポーロ",
+    "nameEn": "Marco Polo",
+    "role": "俊敏型マークスマン",
+    "defaultTier": "A",
+    "lanes": {
+      "farm": "A"
+    }
+  },
+  {
+    "no": 27,
+    "id": "mi-yue",
+    "nameJa": "ミーユエ",
+    "nameEn": "Mi Yue",
+    "role": "範囲攻撃型メイジ",
+    "defaultTier": "A",
+    "lanes": {
+      "clash": "A",
+      "jungle": "A"
+    }
+  },
+  {
+    "no": 28,
+    "id": "milady",
+    "nameJa": "ミレディ",
+    "nameEn": "Milady",
+    "role": "範囲攻撃型メイジ",
+    "defaultTier": "S",
+    "lanes": {
+      "mid": "S"
+    }
+  },
+  {
+    "no": 29,
+    "id": "mulan",
+    "nameJa": "ムーラン",
+    "nameEn": "Mulan",
+    "role": "アサシン型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C"
+    }
+  },
+  {
+    "no": 30,
+    "id": "menki",
+    "nameJa": "モンキ",
+    "nameEn": "Menki",
+    "role": "範囲攻撃型メイジ",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 31,
+    "id": "yun-ying",
+    "nameJa": "ユンエイ",
+    "nameEn": "Yun Ying",
+    "role": "アサシン型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 32,
+    "id": "raphael",
+    "nameJa": "ラプール",
+    "nameEn": "Raphael",
+    "role": "守護系サポート",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "roam": "C"
+    }
+  },
+  {
+    "no": 33,
+    "id": "luara",
+    "nameJa": "ルアンナ",
+    "nameEn": "Luara",
+    "role": "連射型マークスマン",
+    "defaultTier": "A",
+    "lanes": {
+      "farm": "A"
+    }
+  },
+  {
+    "no": 34,
+    "id": "luna",
+    "nameJa": "ルナ",
+    "nameEn": "Luna",
+    "role": "突撃型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 35,
+    "id": "lorion",
+    "nameJa": "ロリアン",
+    "nameEn": "Lorion",
+    "role": "AOV",
+    "defaultTier": "C",
+    "lanes": {
+      "mid": "C"
+    }
+  },
+  {
+    "no": 36,
+    "id": "ake",
+    "nameJa": "阿軻",
+    "nameEn": "Ake",
+    "role": "高ダメージ型アサシン",
+    "defaultTier": "A",
+    "lanes": {
+      "jungle": "A"
+    }
+  },
+  {
+    "no": 37,
+    "id": "cirrus",
+    "nameJa": "雲中君",
+    "nameEn": "Cirrus",
+    "role": "高ダメージ型アサシン",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 38,
+    "id": "shadow",
+    "nameJa": "影",
+    "nameEn": "Shadow",
+    "role": "突撃型ファイター",
+    "defaultTier": "A",
+    "lanes": {
+      "clash": "A",
+      "jungle": "A"
+    }
+  },
+  {
+    "no": 39,
+    "id": "wang-wei",
+    "nameJa": "王維",
+    "nameEn": "Wang Wei",
+    "role": "範囲攻撃型メイジ",
+    "defaultTier": "A",
+    "lanes": {
+      "mid": "A"
+    }
+  },
+  {
+    "no": 40,
+    "id": "wang-zhaojun",
+    "nameJa": "王昭君",
+    "nameEn": "Wang Zhaojun",
+    "role": "CC型メイジ",
+    "defaultTier": "A",
+    "lanes": {
+      "mid": "A",
+      "roam": "A"
+    }
+  },
+  {
+    "no": 41,
+    "id": "huang-zhong",
+    "nameJa": "黄忠",
+    "nameEn": "Huang Zhong",
+    "role": "連射型マークスマン",
+    "defaultTier": "C",
+    "lanes": {
+      "farm": "C"
+    }
+  },
+  {
+    "no": 42,
+    "id": "garo",
+    "nameJa": "伽羅",
+    "nameEn": "Garo",
+    "role": "連射型マークスマン",
+    "defaultTier": "A",
+    "lanes": {
+      "farm": "A"
+    }
+  },
+  {
+    "no": 43,
+    "id": "dun",
+    "nameJa": "夏侯惇",
+    "nameEn": "Dun",
+    "role": "防衛型タンク",
+    "defaultTier": "A",
+    "lanes": {
+      "clash": "A",
+      "jungle": "A"
+    }
+  },
+  {
+    "no": 44,
+    "id": "gan-mo",
+    "nameJa": "干将・莫耶",
+    "nameEn": "Gan & Mo",
+    "role": "砲台型メイジ",
+    "defaultTier": "C",
+    "lanes": {
+      "mid": "C"
+    }
+  },
+  {
+    "no": 45,
+    "id": "guan-yu",
+    "nameJa": "関羽",
+    "nameEn": "Guan Yu",
+    "role": "突撃型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "roam": "C"
+    }
+  },
+  {
+    "no": 46,
+    "id": "han-xin",
+    "nameJa": "韓信",
+    "nameEn": "Han Xin",
+    "role": "ローム型アサシン",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 47,
+    "id": "yixing",
+    "nameJa": "棋星",
+    "nameEn": "Yixing",
+    "role": "範囲攻撃型メイジ",
+    "defaultTier": "C",
+    "lanes": {
+      "mid": "C"
+    }
+  },
+  {
+    "no": 48,
+    "id": "guiguzi",
+    "nameJa": "鬼谷子",
+    "nameEn": "Guiguzi",
+    "role": "攻撃系サポート",
+    "defaultTier": "C",
+    "lanes": {
+      "roam": "C"
+    }
+  },
+  {
+    "no": 49,
+    "id": "ukyo-tachibana",
+    "nameJa": "橘右京",
+    "nameEn": "Ukyo Tachibana",
+    "role": "アサシン型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 50,
+    "id": "musashi",
+    "nameJa": "宮本武蔵",
+    "nameEn": "Musashi",
+    "role": "アサシン型ファイター",
+    "defaultTier": "B",
+    "lanes": {
+      "jungle": "B"
+    }
+  },
+  {
+    "no": 51,
+    "id": "jing",
+    "nameJa": "鏡",
+    "nameEn": "Jing",
+    "role": "ローム型アサシン",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 52,
+    "id": "consort-yu",
+    "nameJa": "虞美人",
+    "nameEn": "Consort Yu",
+    "role": "連射型マークスマン",
+    "defaultTier": "A",
+    "lanes": {
+      "farm": "A"
+    }
+  },
+  {
+    "no": 53,
+    "id": "sakeer",
+    "nameJa": "啓",
+    "nameEn": "Sakeer",
+    "role": "バフ系サポート",
+    "defaultTier": "C",
+    "lanes": {
+      "roam": "C"
+    }
+  },
+  {
+    "no": 54,
+    "id": "yuan-ge",
+    "nameJa": "元歌",
+    "nameEn": "Yuan Ge",
+    "role": "ローム型アサシン",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C"
+    }
+  },
+  {
+    "no": 55,
+    "id": "arli",
+    "nameJa": "公孫離",
+    "nameEn": "Arli",
+    "role": "俊敏型マークスマン",
+    "defaultTier": "B",
+    "lanes": {
+      "farm": "B"
+    }
+  },
+  {
+    "no": 56,
+    "id": "hou-yi",
+    "nameJa": "后羿",
+    "nameEn": "Hou Yi",
+    "role": "連射型マークスマン",
+    "defaultTier": "S",
+    "lanes": {
+      "farm": "S"
+    }
+  },
+  {
+    "no": 57,
+    "id": "fuzi",
+    "nameJa": "孔子",
+    "nameEn": "Fuzi",
+    "role": "狂戦士型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C"
+    }
+  },
+  {
+    "no": 58,
+    "id": "kongming",
+    "nameJa": "孔明",
+    "nameEn": "Kongming",
+    "role": "奇襲型メイジ",
+    "defaultTier": "A",
+    "lanes": {
+      "mid": "A",
+      "jungle": "A"
+    }
+  },
+  {
+    "no": 59,
+    "id": "xiang-yu",
+    "nameJa": "項羽",
+    "nameEn": "Xiang Yu",
+    "role": "防衛型タンク",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B",
+      "roam": "B"
+    }
+  },
+  {
+    "no": 60,
+    "id": "sima-yi",
+    "nameJa": "司馬懿",
+    "nameEn": "Sima Yi",
+    "role": "高ダメージ型アサシン",
+    "defaultTier": "B",
+    "lanes": {
+      "mid": "B",
+      "jungle": "B"
+    }
+  },
+  {
+    "no": 61,
+    "id": "zhou-yu",
+    "nameJa": "周瑜",
+    "nameEn": "Zhou Yu",
+    "role": "範囲攻撃型メイジ",
+    "defaultTier": "C",
+    "lanes": {
+      "mid": "C"
+    }
+  },
+  {
+    "no": 62,
+    "id": "nuwa",
+    "nameJa": "女媧",
+    "nameEn": "Nuwa",
+    "role": "砲台型メイジ",
+    "defaultTier": "B",
+    "lanes": {
+      "mid": "B"
+    }
+  },
+  {
+    "no": 63,
+    "id": "xiao-qiao",
+    "nameJa": "小喬",
+    "nameEn": "Xiao Qiao",
+    "role": "砲台型メイジ",
+    "defaultTier": "A",
+    "lanes": {
+      "mid": "A"
+    }
+  },
+  {
+    "no": 64,
+    "id": "dyadia",
+    "nameJa": "少司縁",
+    "nameEn": "Dyadia",
+    "role": "バフ系サポート",
+    "defaultTier": "A",
+    "lanes": {
+      "roam": "A"
+    }
+  },
+  {
+    "no": 65,
+    "id": "zhong-wuyan",
+    "nameJa": "鐘無艶",
+    "nameEn": "Wuyan",
+    "role": "重装型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 66,
+    "id": "kui",
+    "nameJa": "鐘馗",
+    "nameEn": "Kui",
+    "role": "攻撃系サポート",
+    "defaultTier": "B",
+    "lanes": {
+      "roam": "B"
+    }
+  },
+  {
+    "no": 67,
+    "id": "shangguan",
+    "nameJa": "上官婉児",
+    "nameEn": "Shangguan",
+    "role": "奇襲型メイジ",
+    "defaultTier": "C",
+    "lanes": {
+      "mid": "C"
+    }
+  },
+  {
+    "no": 68,
+    "id": "di-renjie",
+    "nameJa": "仁傑",
+    "nameEn": "Di Renjie",
+    "role": "連射型マークスマン",
+    "defaultTier": "B",
+    "lanes": {
+      "farm": "B"
+    }
+  },
+  {
+    "no": 69,
+    "id": "shi",
+    "nameJa": "西施",
+    "nameEn": "Shi",
+    "role": "CC型メイジ",
+    "defaultTier": "B",
+    "lanes": {
+      "mid": "B",
+      "roam": "B"
+    }
+  },
+  {
+    "no": 70,
+    "id": "gao",
+    "nameJa": "漸離",
+    "nameEn": "Gao",
+    "role": "範囲攻撃型メイジ",
+    "defaultTier": "C",
+    "lanes": {
+      "mid": "C"
+    }
+  },
+  {
+    "no": 71,
+    "id": "zhuangzi",
+    "nameJa": "荘子",
+    "nameEn": "Zhuangzi",
+    "role": "守護系サポート",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B",
+      "roam": "B"
+    }
+  },
+  {
+    "no": 72,
+    "id": "cang",
+    "nameJa": "蒼",
+    "nameEn": "Cang",
+    "role": "重砲型マークスマン",
+    "defaultTier": "B",
+    "lanes": {
+      "farm": "B",
+      "jungle": "B"
+    }
+  },
+  {
+    "no": 73,
+    "id": "wukong",
+    "nameJa": "孫悟空",
+    "nameEn": "Wukong",
+    "role": "高ダメージ型アサシン",
+    "defaultTier": "A",
+    "lanes": {
+      "jungle": "A"
+    }
+  },
+  {
+    "no": 74,
+    "id": "sun-ce",
+    "nameJa": "孫策",
+    "nameEn": "Sun Ce",
+    "role": "突撃型ファイター",
+    "defaultTier": "A",
+    "lanes": {
+      "clash": "A",
+      "jungle": "A"
+    }
+  },
+  {
+    "no": 75,
+    "id": "lady-sun",
+    "nameJa": "孫尚香",
+    "nameEn": "Lady Sun",
+    "role": "重砲型マークスマン",
+    "defaultTier": "S",
+    "lanes": {
+      "farm": "S"
+    }
+  },
+  {
+    "no": 76,
+    "id": "sun-bin",
+    "nameJa": "孫臏",
+    "nameEn": "Sun Bin",
+    "role": "戦術系サポート",
+    "defaultTier": "C",
+    "lanes": {
+      "roam": "C"
+    }
+  },
+  {
+    "no": 77,
+    "id": "ziya",
+    "nameJa": "太公望",
+    "nameEn": "Ziya",
+    "role": "砲台型メイジ",
+    "defaultTier": "B",
+    "lanes": {
+      "mid": "B",
+      "roam": "B"
+    }
+  },
+  {
+    "no": 78,
+    "id": "da-qiao",
+    "nameJa": "大喬",
+    "nameEn": "Da Qiao",
+    "role": "戦術系サポート",
+    "defaultTier": "B",
+    "lanes": {
+      "mid": "B",
+      "roam": "B"
+    }
+  },
+  {
+    "no": 79,
+    "id": "augran",
+    "nameJa": "大司命",
+    "nameEn": "Augran",
+    "role": "アサシン型ファイター",
+    "defaultTier": "S",
+    "lanes": {
+      "clash": "S",
+      "jungle": "S"
+    }
+  },
+  {
+    "no": 80,
+    "id": "dharma",
+    "nameJa": "達磨",
+    "nameEn": "Dharma",
+    "role": "突撃型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C"
+    }
+  },
+  {
+    "no": 81,
+    "id": "zhang-fei",
+    "nameJa": "張飛",
+    "nameEn": "Zhang Fei",
+    "role": "守護系サポート",
+    "defaultTier": "B",
+    "lanes": {
+      "roam": "B"
+    }
+  },
+  {
+    "no": 82,
+    "id": "liang",
+    "nameJa": "張良",
+    "nameEn": "Liang",
+    "role": "CC型メイジ",
+    "defaultTier": "S",
+    "lanes": {
+      "mid": "S",
+      "roam": "S"
+    }
+  },
+  {
+    "no": 83,
+    "id": "dian-wei",
+    "nameJa": "典韋",
+    "nameEn": "Dian Wei",
+    "role": "狂戦士型ファイター",
+    "defaultTier": "B",
+    "lanes": {
+      "jungle": "B"
+    }
+  },
+  {
+    "no": 84,
+    "id": "donghuang",
+    "nameJa": "東皇太一",
+    "nameEn": "Donghuang",
+    "role": "攻撃系サポート",
+    "defaultTier": "S",
+    "lanes": {
+      "clash": "S",
+      "roam": "S"
+    }
+  },
+  {
+    "no": 85,
+    "id": "bai-qi",
+    "nameJa": "白起",
+    "nameEn": "Bai Qi",
+    "role": "先鋒型タンク",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C"
+    }
+  },
+  {
+    "no": 86,
+    "id": "loong",
+    "nameJa": "白龍",
+    "nameEn": "Loong",
+    "role": "重砲型マークスマン",
+    "defaultTier": "S",
+    "lanes": {
+      "farm": "S"
+    }
+  },
+  {
+    "no": 87,
+    "id": "mayene",
+    "nameJa": "姫小満",
+    "nameEn": "Mayene",
+    "role": "突撃型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 88,
+    "id": "xuance",
+    "nameJa": "百里玄策",
+    "nameEn": "Xuance",
+    "role": "ローム型アサシン",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 89,
+    "id": "shouyue",
+    "nameJa": "百里守約",
+    "nameEn": "Shouyue",
+    "role": "重砲型マークスマン",
+    "defaultTier": "B",
+    "lanes": {
+      "farm": "B"
+    }
+  },
+  {
+    "no": 90,
+    "id": "mai-shiranui",
+    "nameJa": "不知火舞",
+    "nameEn": "Mai Shiranui",
+    "role": "奇襲型メイジ",
+    "defaultTier": "B",
+    "lanes": {
+      "mid": "B"
+    }
+  },
+  {
+    "no": 91,
+    "id": "mozi",
+    "nameJa": "墨子",
+    "nameEn": "Mozi",
+    "role": "CC型メイジ",
+    "defaultTier": "A",
+    "lanes": {
+      "mid": "A",
+      "roam": "A"
+    }
+  },
+  {
+    "no": 92,
+    "id": "ming",
+    "nameJa": "明世隠",
+    "nameEn": "Ming",
+    "role": "バフ系サポート",
+    "defaultTier": "C",
+    "lanes": {
+      "roam": "C"
+    }
+  },
+  {
+    "no": 93,
+    "id": "meng-ya",
+    "nameJa": "蒙牙",
+    "nameEn": "Meng Ya",
+    "role": "連射型マークスマン",
+    "defaultTier": "C",
+    "lanes": {
+      "farm": "C"
+    }
+  },
+  {
+    "no": 94,
+    "id": "yao-clash",
+    "nameJa": "曜",
+    "nameEn": "Yao",
+    "role": "アサシン型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 95,
+    "id": "yuhuan",
+    "nameJa": "楊貴妃",
+    "nameEn": "Yuhuan",
+    "role": "範囲攻撃型メイジ",
+    "defaultTier": "B",
+    "lanes": {
+      "mid": "B",
+      "jungle": "B",
+      "roam": "B"
+    }
+  },
+  {
+    "no": 96,
+    "id": "yang-jian",
+    "nameJa": "楊戩",
+    "nameEn": "Yang Jian",
+    "role": "アサシン型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 97,
+    "id": "prince-of-lanling",
+    "nameJa": "蘭陵王",
+    "nameEn": "Prince of Lanling",
+    "role": "高ダメージ型アサシン",
+    "defaultTier": "A",
+    "lanes": {
+      "jungle": "A"
+    }
+  },
+  {
+    "no": 98,
+    "id": "fang",
+    "nameJa": "李元芳",
+    "nameEn": "Fang",
+    "role": "重砲型マークスマン",
+    "defaultTier": "B",
+    "lanes": {
+      "farm": "B",
+      "jungle": "B"
+    }
+  },
+  {
+    "no": 99,
+    "id": "li-xin",
+    "nameJa": "李信",
+    "nameEn": "Li Xin",
+    "role": "狂戦士型ファイター",
+    "defaultTier": "S",
+    "lanes": {
+      "clash": "S"
+    }
+  },
+  {
+    "no": 100,
+    "id": "li-bai",
+    "nameJa": "李白",
+    "nameEn": "Li Bai",
+    "role": "ローム型アサシン",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 101,
+    "id": "liu-shan",
+    "nameJa": "劉禅",
+    "nameEn": "Liu Shan",
+    "role": "戦術系サポート",
+    "defaultTier": "B",
+    "lanes": {
+      "roam": "B"
+    }
+  },
+  {
+    "no": 102,
+    "id": "liu-bei",
+    "nameJa": "劉備",
+    "nameEn": "Liu Bei",
+    "role": "狂戦士型ファイター",
+    "defaultTier": "C",
+    "lanes": {
+      "jungle": "C"
+    }
+  },
+  {
+    "no": 103,
+    "id": "liu-bang",
+    "nameJa": "劉邦",
+    "nameEn": "Liu Bang",
+    "role": "防衛型タンク",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C"
+    }
+  },
+  {
+    "no": 104,
+    "id": "lian-po",
+    "nameJa": "廉頗",
+    "nameEn": "Lian Po",
+    "role": "先鋒型タンク",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B",
+      "roam": "B"
+    }
+  },
+  {
+    "no": 105,
+    "id": "lu-bu",
+    "nameJa": "呂布",
+    "nameEn": "Lu Bu",
+    "role": "重装型ファイター",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B"
+    }
+  },
+  {
+    "no": 106,
+    "id": "luban-no-7",
+    "nameJa": "魯班7号",
+    "nameEn": "Luban No. 7",
+    "role": "連射型マークスマン",
+    "defaultTier": "A",
+    "lanes": {
+      "farm": "A"
+    }
+  },
+  {
+    "no": 107,
+    "id": "daji",
+    "nameJa": "妲己",
+    "nameEn": "Daji",
+    "role": "砲台型メイジ",
+    "defaultTier": "S",
+    "lanes": {
+      "mid": "S"
+    }
+  },
+  {
+    "no": 108,
+    "id": "bian-que",
+    "nameJa": "扁鵲",
+    "nameEn": "Dr. Bian",
+    "role": "範囲攻撃型メイジ",
+    "defaultTier": "C",
+    "lanes": {
+      "mid": "C",
+      "roam": "C"
+    }
+  },
+  {
+    "no": 109,
+    "id": "haya",
+    "nameJa": "溟月",
+    "nameEn": "Haya",
+    "role": "砲台型メイジ",
+    "defaultTier": "A",
+    "lanes": {
+      "mid": "A"
+    }
+  },
+  {
+    "no": 110,
+    "id": "lam",
+    "nameJa": "瀾",
+    "nameEn": "Lam",
+    "role": "ローム型アサシン",
+    "defaultTier": "A",
+    "lanes": {
+      "jungle": "A"
+    }
+  },
+  {
+    "no": 111,
+    "id": "yaria",
+    "nameJa": "瑶",
+    "nameEn": "Yaria",
+    "role": "バフ系サポート",
+    "defaultTier": "A",
+    "lanes": {
+      "roam": "A"
+    }
+  },
+  {
+    "no": 112,
+    "id": "zhen-ji",
+    "nameJa": "甄姫",
+    "nameEn": "Lady Zhen",
+    "role": "CC型メイジ",
+    "defaultTier": "B",
+    "lanes": {
+      "mid": "B"
+    }
+  },
+  {
+    "no": 113,
+    "id": "cai-yan",
+    "nameJa": "蔡文姫",
+    "nameEn": "Cai Yan",
+    "role": "バフ系サポート",
+    "defaultTier": "A",
+    "lanes": {
+      "roam": "A"
+    }
+  },
+  {
+    "no": 114,
+    "id": "diaochan",
+    "nameJa": "貂蝉",
+    "nameEn": "Diaochan",
+    "role": "範囲攻撃型メイジ",
+    "defaultTier": "B",
+    "lanes": {
+      "clash": "B",
+      "mid": "B"
+    }
+  },
+  {
+    "no": 115,
+    "id": "zilong",
+    "nameJa": "趙雲",
+    "nameEn": "Zilong",
+    "role": "アサシン型ファイター",
+    "defaultTier": "B",
+    "lanes": {
+      "jungle": "B"
+    }
+  },
+  {
+    "no": 116,
+    "id": "flowborn-tank",
+    "nameJa": "元流（タンク）",
+    "nameEn": "Flowborn (Tank)",
+    "role": "先鋒型タンク",
+    "defaultTier": "C",
+    "lanes": {
+      "clash": "C",
+      "jungle": "C",
+      "roam": "C"
+    }
+  },
+  {
+    "no": 117,
+    "id": "flowborn-mage",
+    "nameJa": "元流（メイジ）",
+    "nameEn": "Flowborn (Mage)",
+    "role": "砲台型メイジ",
+    "defaultTier": "C",
+    "lanes": {
+      "mid": "C"
+    }
+  },
+  {
+    "no": 118,
+    "id": "flowborn-marksman",
+    "nameJa": "元流（マークスマン）",
+    "nameEn": "Flowborn (Marksman)",
+    "role": "俊敏型マークスマン",
+    "defaultTier": "B",
+    "lanes": {
+      "farm": "B"
+    }
+  },
+  {
+    "no": 119,
+    "id": "flowborn-assassin",
+    "nameJa": "元流（アサシン）",
+    "nameEn": "Flowborn (Assassin)",
+    "role": "ローム型アサシン",
+    "defaultTier": "B",
+    "lanes": {
+      "jungle": "B"
+    }
+  },
+  {
+    "no": 120,
+    "id": "flowborn-support",
+    "nameJa": "元流（サポート）",
+    "nameEn": "Flowborn (Support)",
+    "role": "バフ型サポート",
+    "defaultTier": "B",
+    "lanes": {
+      "roam": "B"
+    }
+  }
+]
